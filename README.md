@@ -1823,3 +1823,4 @@ export const dynamic = "force-dynamic";
 - create github repo
 #   n e x t j s _ s m i l g a _ m e a l s _ a p i  
  "# Nextjs_sample_sqllite" 
+"# Nextjs_sqllite" 
